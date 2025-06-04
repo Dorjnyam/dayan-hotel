@@ -58,7 +58,7 @@ export default defineNuxtConfig({
 
   // App configuration
   app: {
-    baseURL: "https://github.com/Dorjnyam/dayan_hotel",
+    baseURL: "https://github.com/Dorjnyam/dayan-hotel",
     head: {
       title: "Даян зочид буудал - Улиастай, Завхан",
       meta: [
