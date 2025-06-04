@@ -1,0 +1,1 @@
+import{_ as o,c as s,a as t,o as r}from"./Mcx6ho_m.js";const n={},a={class:"text-center p-10"};function c(l,e){return r(),s("div",a,e[0]||(e[0]=[t("h1",{class:"text-4xl font-bold"},"404 - Page Not Found",-1),t("p",{class:"mt-4"},"Sorry, the page you're looking for doesn't exist.",-1)]))}const d=o(n,[["render",c]]);export{d as default};
