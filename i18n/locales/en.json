@@ -1,0 +1,358 @@
+{
+  "hero": {
+    "title": "Dayan Hotel",
+    "subtitle": "A luxury hotel located in Uliastai, Zavkhan Province. Experience traditional Mongolian hospitality with world-class service.",
+    "bookNow": "Book Now",
+    "viewRooms": "View Rooms"
+  },
+  "quickBooking": {
+    "title": "Quick Booking"
+  },
+  "booking": {
+    "checkIn": "Check In",
+    "checkOut": "Check Out",
+    "guests": "Guests",
+    "guest": "guest",
+    "roomType": "Room Type",
+    "anyRoom": "Any Room",
+    "search": "Search",
+    "bookNow": "Book Now",
+    "totalPrice": "Total Price",
+    "specialRequests": "Special Requests",
+    "confirmBooking": "Confirm Booking",
+    "bookingConfirmed": "Booking Confirmed",
+    "bookingDetails": "Booking Details",
+    "bookingNumber": "Booking Number",
+    "status": "Status",
+    "pending": "Pending",
+    "confirmed": "Confirmed",
+    "cancelled": "Cancelled",
+    "completed": "Completed"
+  },
+  "rooms": {
+    "title": "Our Rooms",
+    "description": "We offer various types of rooms to ensure your comfortable stay.",
+    "viewAll": "View All Rooms",
+    "standard": {
+      "name": "Standard Room",
+      "description": "Comfortable and clean standard room",
+      "shortDescription": "Affordable and comfortable room"
+    },
+    "deluxe": {
+      "name": "Deluxe Room",
+      "description": "More spacious and luxurious room",
+      "shortDescription": "Luxuriously furnished, spacious room"
+    },
+    "suite": {
+      "name": "Suite Room",
+      "description": "Most luxurious and spacious suite",
+      "shortDescription": "Premium luxury suite room"
+    },
+    "capacity": "Capacity",
+    "amenities": "Amenities",
+    "pricePerNight": "Price per night",
+    "availability": "Availability",
+    "available": "Available",
+    "unavailable": "Unavailable"
+  },
+  "amenities": {
+    "wifi": "WiFi Internet",
+    "tv": "Television",
+    "bathroom": "Private Bathroom",
+    "minibar": "Mini Bar",
+    "balcony": "Balcony",
+    "jacuzzi": "Jacuzzi",
+    "aircon": "Air Conditioning",
+    "heating": "Heating",
+    "safe": "Safe",
+    "phone": "Phone",
+    "desk": "Work Desk",
+    "closet": "Wardrobe"
+  },
+  "features": {
+    "title": "Our Features",
+    "wifi": {
+      "title": "Free WiFi",
+      "description": "Fast and reliable internet connection throughout the hotel"
+    },
+    "restaurant": {
+      "title": "Restaurant",
+      "description": "Wide selection of Mongolian and international cuisine"
+    },
+    "security": {
+      "title": "Security",
+      "description": "24-hour security, safe environment"
+    },
+    "parking": {
+      "title": "Parking",
+      "description": "Free and secure parking available"
+    },
+    "reception": {
+      "title": "24/7 Service",
+      "description": "Round-the-clock service available"
+    },
+    "service": {
+      "title": "Friendly Service",
+      "description": "Traditional Mongolian hospitality with quality service"
+    }
+  },
+  "location": {
+    "title": "Location",
+    "description": "Located in the heart of Uliastai city, Zavkhan Province, with easy access to all attractions.",
+    "address": "Uliastai City, Zavkhan Province, Mongolia",
+    "mapPlaceholder": "Map will be displayed here"
+  },
+  "reviews": {
+    "title": "Guest Reviews",
+    "review1": {
+      "comment": "Wonderful hotel! Clean rooms and excellent service. Will definitely come back."
+    },
+    "review2": {
+      "comment": "Very friendly staff, always ready to help. Delicious food and comfortable environment."
+    },
+    "review3": {
+      "comment": "Great location, reasonable prices. Perfect for family vacation."
+    }
+  },
+  "cta": {
+    "title": "Book Today",
+    "description": "Create wonderful memories with us. Book the room that suits you best.",
+    "bookNow": "Book Now",
+    "contactUs": "Contact Us"
+  },
+  "navigation": {
+    "home": "Home",
+    "rooms": "Rooms",
+    "booking": "Booking",
+    "about": "About",
+    "contact": "Contact",
+    "gallery": "Gallery",
+    "services": "Services",
+    "restaurant": "Restaurant",
+    "attractions": "Attractions",
+    "news": "News",
+    "login": "Login",
+    "register": "Register",
+    "profile": "Profile",
+    "logout": "Logout",
+    "admin": "Admin"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error occurred",
+    "success": "Success",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "confirm": "Confirm",
+    "close": "Close",
+    "open": "Open",
+    "select": "Select",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "viewDetails": "View Details",
+    "contactUs": "Contact Us",
+    "readMore": "Read More",
+    "showLess": "Show Less",
+    "all": "All",
+    "none": "None",
+    "yes": "Yes",
+    "no": "No",
+    "optional": "Optional",
+    "required": "Required",
+    "available": "Available",
+    "unavailable": "Unavailable",
+    "free": "Free",
+    "paid": "Paid"
+  },
+  "footer": {
+    "description": "Dayan Hotel in Uliastai, Zavkhan Province offers you the warmth and comfort of home.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "followUs": "Follow Us",
+    "newsletter": "Newsletter",
+    "newsletterText": "Subscribe to receive news and special offers",
+    "subscribe": "Subscribe",
+    "copyright": "© 2024 Dayan Hotel. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  },
+  "about": {
+    "title": "About Us",
+    "description": "Dayan Hotel is Uliastai's first 4-star hotel, established in 2020.",
+    "mission": "Our Mission",
+    "missionText": "To combine traditional Mongolian hospitality with world-class service standards, creating memorable experiences for our guests.",
+    "vision": "Our Vision",
+    "visionText": "To become a leading player in Mongolia's tourism sector and a key destination for international travelers.",
+    "values": "Our Values",
+    "valuesText": "Respecting our customers, providing quality service, and protecting the environment."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "getInTouch": "Get in Touch",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "hours": "Hours",
+    "hoursText": "24 hours a day",
+    "sendMessage": "Send Message",
+    "name": "Name",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send",
+    "messageSent": "Your message has been sent successfully!"
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "hotel": "Hotel",
+    "rooms": "Rooms",
+    "restaurant": "Restaurant",
+    "facilities": "Facilities",
+    "events": "Events"
+  },
+  "services": {
+    "title": "Services",
+    "description": "We offer various services to make your stay comfortable",
+    "roomService": {
+      "title": "Room Service",
+      "description": "24-hour room service available"
+    },
+    "laundry": {
+      "title": "Laundry Service",
+      "description": "Clothing washing and ironing service"
+    },
+    "transport": {
+      "title": "Transportation",
+      "description": "Airport and bus station pickup service"
+    },
+    "tour": {
+      "title": "Tour Service",
+      "description": "Local tour arrangements"
+    },
+    "conference": {
+      "title": "Conference Service",
+      "description": "Meeting and seminar room facilities"
+    },
+    "wifi": {
+      "title": "Internet Service",
+      "description": "Free WiFi internet connection"
+    }
+  },
+  "restaurant": {
+    "title": "Restaurant",
+    "description": "Selection of delicious Mongolian and international cuisine",
+    "breakfast": "Breakfast",
+    "lunch": "Lunch",
+    "dinner": "Dinner",
+    "specialties": "Specialties",
+    "openHours": "Opening Hours",
+    "breakfastTime": "07:00 - 10:00",
+    "lunchTime": "12:00 - 15:00",
+    "dinnerTime": "18:00 - 22:00",
+    "menu": "Menu",
+    "reservation": "Make Reservation"
+  },
+  "attractions": {
+    "title": "Attractions",
+    "description": "Interesting places to visit in and around Uliastai",
+    "nearby": "Nearby Places",
+    "historical": "Historical Sites",
+    "natural": "Natural Attractions",
+    "cultural": "Cultural Heritage"
+  },
+  "news": {
+    "title": "News & Updates",
+    "latest": "Latest News",
+    "readMore": "Read More",
+    "publishedOn": "Published on",
+    "category": "Category"
+  },
+  "auth": {
+    "login": {
+      "title": "Login",
+      "email": "Email Address",
+      "password": "Password",
+      "remember": "Remember me",
+      "forgot": "Forgot password?",
+      "submit": "Login",
+      "noAccount": "Don't have an account?",
+      "register": "Register"
+    },
+    "register": {
+      "title": "Register",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "agree": "I agree to the terms of service",
+      "submit": "Register",
+      "hasAccount": "Already have an account?",
+      "login": "Login"
+    },
+    "reset": {
+      "title": "Reset Password",
+      "description": "Enter your email address and we'll send you a password reset link",
+      "email": "Email Address",
+      "submit": "Send",
+      "back": "Back to login"
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "personalInfo": "Personal Information",
+    "bookingHistory": "Booking History",
+    "settings": "Settings",
+    "editProfile": "Edit Profile",
+    "changePassword": "Change Password",
+    "currentPassword": "Current Password",
+    "newPassword": "New Password",
+    "confirmNewPassword": "Confirm New Password"
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "bookings": "Bookings",
+    "rooms": "Rooms",
+    "users": "Users",
+    "reports": "Reports",
+    "inventory": "Inventory",
+    "settings": "Settings",
+    "totalBookings": "Total Bookings",
+    "totalRevenue": "Total Revenue",
+    "occupancyRate": "Occupancy Rate",
+    "newBookings": "New Bookings",
+    "todayArrivals": "Today's Arrivals",
+    "todayDepartures": "Today's Departures",
+    "availableRooms": "Available Rooms",
+    "maintenanceRooms": "Rooms Under Maintenance"
+  },
+  "errors": {
+    "404": "Page not found",
+    "500": "Server error",
+    "networkError": "Network error",
+    "validationError": "Validation error",
+    "unauthorized": "Unauthorized",
+    "forbidden": "Forbidden",
+    "emailRequired": "Email is required",
+    "passwordRequired": "Password is required",
+    "passwordMinLength": "Password must be at least 6 characters",
+    "emailInvalid": "Invalid email address",
+    "phoneInvalid": "Invalid phone number",
+    "required": "This field is required"
+  },
+  "success": {
+    "bookingCreated": "Booking created successfully",
+    "profileUpdated": "Profile updated successfully",
+    "passwordChanged": "Password changed successfully",
+    "messageSent": "Message sent successfully",
+    "subscribed": "Successfully subscribed"
+  }
+}
