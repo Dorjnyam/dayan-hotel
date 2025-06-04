@@ -58,6 +58,7 @@ export default defineNuxtConfig({
 
   // App configuration
   app: {
+    baseURL: "https://github.com/Dorjnyam/dayan_hotel",
     head: {
       title: "Даян зочид буудал - Улиастай, Завхан",
       meta: [
@@ -100,12 +101,15 @@ export default defineNuxtConfig({
     transpile: ["@headlessui/vue"],
   },
 
-  // Nitro configuration for API
   nitro: {
     esbuild: {
       options: {
         target: "es2020",
       },
+    },
+    prerender: {
+      routes: ["/"], // explicitly prerender only /
+      ignore: ["/200.html", "/404.html"], // prevent errors
     },
   },
 });
